@@ -4,17 +4,216 @@ title: Calendar
 uid: 55c10215-4d9e-ac7d-eae3-2641b1b41d95
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Wilde. "The Selfish Giant"  {{< br >}}  {{< br >}}Paintings by: Burne-Jones, Wm. Holman Hunt, D.G. Rosetti, and Buchanan  {{< br >}}  {{< br >}}Film: _Wilde_ |
-| 2 | A.E. Housman  {{< br >}}  {{< br >}}Tom Stoppard  {{< br >}}  {{< br >}}Poems by: Browning and Tennyson  {{< br >}}  {{< br >}}Paintings by: James M. Whistler |
-| 3 |  {{< br >}}{{< br >}} Wilde. "Rocket."  {{< br >}}  {{< br >}}John Ruskin  {{< br >}}  {{< br >}}Poems About Art by: Walter Pater and David Masson  {{< br >}}  {{< br >}}Poems by: C. Rosetti, D.G. Rosetti, Algernon Swinburne, and Tennyson  {{< br >}}  {{< br >}}Plays by: Gregory Murphy  {{< br >}}  {{< br >}}Paintings by: Millais {{< br >}}{{< br >}}  |
-| 4 | Poems by: Whitman, Plato and Matthew Arnold  {{< br >}}  {{< br >}}Paintings and Photos by: _T_ homas Eakin, Eadweard Muybridge, and Wilhelm van Gloeden |
-| 5 | Henrik Ibsen  {{< br >}}  {{< br >}}E.B. Browning  {{< br >}}  {{< br >}}George Meredith  {{< br >}}  {{< br >}}Essays by: Wilde. "The Soul of Man Under Socialism" and George Bernard Shaw  {{< br >}}  {{< br >}}Film: _An Ideal Husband_. |
-| 6 | Wilde. _Salome_.  {{< br >}}  {{< br >}}Essays by: Roland Barthes,  {{< br >}}  {{< br >}}Aubrey Beardsley's Illustrations to _Salome  {{< br >}}_  {{< br >}}The Textual History of _Salome  {{< br >}}_  {{< br >}}Beardsley and The Yellow Book  {{< br >}}  {{< br >}}Baudelaire and Symbolist Decadence  {{< br >}}  {{< br >}}Huysman |
-| 7 | Wilde. _Dorian Gray_.  {{< br >}}  {{< br >}}Walter Benjamin  {{< br >}}  {{< br >}}Will Self  {{< br >}}  {{< br >}}Lawsuit: Burrow Giles Lithographic vs. Sarony. |
-| 8 | Lewis Carroll  {{< br >}}  {{< br >}}Sigmund Freud  {{< br >}}  {{< br >}}Gilles Deleuze  {{< br >}}  {{< br >}}The Tenniell Illustrations  {{< br >}}  {{< br >}}Lewis Carroll/Mathematician/Photographer  {{< br >}}  {{< br >}}Freud. Women and the Seduction Theory |
-| 9 | Wilde. _The Importance of Being Earnest_.  {{< br >}}  {{< br >}}Lady Bracknell and Austen's Lady DeVere.  {{< br >}}  {{< br >}}Telltale Cigarette Cases.  {{< br >}}  {{< br >}}The Textual History of _Earnest_. |
-| 10 | Film: _The Importance of Being Earnest_ |
-| 11 | Kaufman  {{< br >}}  {{< br >}}The Textual History of "De P."  {{< br >}}  {{< br >}}Hare, David. _The Judas Kiss_.  {{< br >}}  {{< br >}}The Labouchère Amendment.  {{< br >}}  {{< br >}}Edward Carpenter and the Intermediate Sex.  {{< br >}}  {{< br >}}Robert Louis Stevenson  {{< br >}}  {{< br >}}Poems by: Alfred (Lord) Douglas |
-| 12 | Wilde. "De Profundis."  {{< br >}}  {{< br >}}Wilde. "The Ballad of Reading Goal."  {{< br >}}  {{< br >}}What Became of Bosie  {{< br >}}  {{< br >}}André Gide  {{< br >}}  {{< br >}}Tom Stoppard  {{< br >}}  {{< br >}}Poems by: G.M. Hopkins
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde. "The Selfish Giant"  
+  
+Paintings by: Burne-Jones, Wm. Holman Hunt, D.G. Rosetti, and Buchanan  
+  
+Film: _Wilde_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+A.E. Housman  
+  
+Tom Stoppard  
+  
+Poems by: Browning and Tennyson  
+  
+Paintings by: James M. Whistler
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wilde. "Rocket."  
+  
+John Ruskin  
+  
+Poems About Art by: Walter Pater and David Masson  
+  
+Poems by: C. Rosetti, D.G. Rosetti, Algernon Swinburne, and Tennyson  
+  
+Plays by: Gregory Murphy  
+  
+Paintings by: Millais
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Poems by: Whitman, Plato and Matthew Arnold  
+  
+Paintings and Photos by: _T_ homas Eakin, Eadweard Muybridge, and Wilhelm van Gloeden
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Henrik Ibsen  
+  
+E.B. Browning  
+  
+George Meredith  
+  
+Essays by: Wilde. "The Soul of Man Under Socialism" and George Bernard Shaw  
+  
+Film: _An Ideal Husband_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde. _Salome_.  
+  
+Essays by: Roland Barthes,  
+  
+Aubrey Beardsley's Illustrations to _Salome  
+_  
+The Textual History of _Salome  
+_  
+Beardsley and The Yellow Book  
+  
+Baudelaire and Symbolist Decadence  
+  
+Huysman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde. _Dorian Gray_.  
+  
+Walter Benjamin  
+  
+Will Self  
+  
+Lawsuit: Burrow Giles Lithographic vs. Sarony.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis Carroll  
+  
+Sigmund Freud  
+  
+Gilles Deleuze  
+  
+The Tenniell Illustrations  
+  
+Lewis Carroll/Mathematician/Photographer  
+  
+Freud. Women and the Seduction Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde. _The Importance of Being Earnest_.  
+  
+Lady Bracknell and Austen's Lady DeVere.  
+  
+Telltale Cigarette Cases.  
+  
+The Textual History of _Earnest_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _The Importance of Being Earnest_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Kaufman  
+  
+The Textual History of "De P."  
+  
+Hare, David. _The Judas Kiss_.  
+  
+The Labouchère Amendment.  
+  
+Edward Carpenter and the Intermediate Sex.  
+  
+Robert Louis Stevenson  
+  
+Poems by: Alfred (Lord) Douglas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Wilde. "De Profundis."  
+  
+Wilde. "The Ballad of Reading Goal."  
+  
+What Became of Bosie  
+  
+André Gide  
+  
+Tom Stoppard  
+  
+Poems by: G.M. Hopkins
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
